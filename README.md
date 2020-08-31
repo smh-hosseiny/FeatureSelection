@@ -1,1 +1,3 @@
 # FeatureSelection
+Implementing and comparing NaiveSearch, SequentialForwardSelection
+SequentialBackwardElimination and SequentialFloatingForwardSelection algorithms.
